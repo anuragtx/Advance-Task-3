@@ -31,8 +31,6 @@ The goal of this project is to create a visually appealing and responsive person
 - **Smooth Animations**: Subtle animations for a modern, interactive user experience.
 - **Navigation Bar**: Sticky navigation bar for easy access to different sections of the website.
 
-![Screenshot of My Project](task3.2.png)
-
 ## Technologies Used
 
 - **HTML5**: Semantically structured content and layout.
